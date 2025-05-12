@@ -57,6 +57,7 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 5             |`Course`       | [Fundamental Math for Data Science](https://www.codecademy.com/learn/paths/fundamental-math-for-data-science)| 
 | 6             |`Playlist`     | [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | 7             |`Blog`         | [Graphical Linear Algebra](https://graphicallinearalgebra.net/) |
+| 8             |`Course`       | [Fast.ai Numerical Algebra](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html) |
 
 
 ## Module 2 - Building Your Foundation

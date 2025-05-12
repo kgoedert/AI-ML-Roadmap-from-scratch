@@ -36,12 +36,12 @@
 Before you begin, it is best to build your foundations and have the set-up ready. This would help you get your system working for Python on a compiler software. 
 Mathematics is a foundation for everything in the world for Artificial Intelligence. Have a core in applied mathematical concepts like linear algebra, matrics and more can help you theoretically understand how machines work.
 
-| S.No          | Type          | Course Name   |
-| ------------- | ------------- | ------------- |
-| 1             |`Software`      | [Python 3.13 Download](https://www.python.org/downloads/)  |
-| 2             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   |
-| 3             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
-| 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/Packages.md)  |
+| S.No          | Type          | Course Name   | Status |
+| ------------- | ------------- | ------------- | ------ |
+| 1             |`Software`      | [Python 3.13 Download](https://www.python.org/downloads/)  | Done |
+| 2             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   | Done |
+| 3             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) | Done |
+| 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/Packages.md)  | Done |
 
 
 ## Module 1 - The Math Behind It All

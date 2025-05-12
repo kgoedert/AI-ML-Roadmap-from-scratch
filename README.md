@@ -55,7 +55,8 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 3             |`Course`       | [Discrete Structures via Saylor Academy](https://www.classcentral.com/course/saylor-academy-67-cs202-discrete-structures-99529) |
 | 4             |`Lectures`     | [Linear Algebra Lecture Series from MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/) |
 | 5             |`Course`       | [Fundamental Math for Data Science](https://www.codecademy.com/learn/paths/fundamental-math-for-data-science)| 
-| 6             |`Course`       | [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| 6             |`Playlist`     | [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| 7             |`Blog`         | [Graphical Linear Algebra](https://graphicallinearalgebra.net/) |
 
 
 ## Module 2 - Building Your Foundation

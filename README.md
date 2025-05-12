@@ -58,6 +58,7 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 6             |`Playlist`     | [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | 7             |`Blog`         | [Graphical Linear Algebra](https://graphicallinearalgebra.net/) |
 | 8             |`Course`       | [Fast.ai Numerical Algebra](https://www.fast.ai/posts/2017-07-17-num-lin-alg.html) |
+| 9             |`Course`       | [Linear Algebra Done Right](https://linear.axler.net/) |
 
 
 ## Module 2 - Building Your Foundation

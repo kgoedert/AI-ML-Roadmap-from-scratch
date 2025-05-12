@@ -48,14 +48,14 @@ Mathematics is a foundation for everything in the world for Artificial Intellige
 
 The domain of AI/ML is a vast deep ocean and it's time for you to build a boat and rafters for a smooth sail. These foundational courses in Computer Science and Python Programming will get you going strong!
 
-| S.No          | Type          | Course Name   |
-| ------------- | ------------- | ------------- |
-| 1             |`Playlist`     | [Math for Machine Learning Playlist](https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=6sZ51wadUZnscjRG)  |
+| S.No          | Type          | Course Name   | Status |
+| ------------- | ------------- | ------------- | ------ |
+| 1             |`Playlist`     | [Math for Machine Learning Playlist](https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=6sZ51wadUZnscjRG)  | In Progress | 
 | 2             |`⭐Course`     | [NPTEL Swayam Discrete Mathematics Course](https://onlinecourses.nptel.ac.in/noc22_cs33/preview)         | 
 | 3             |`Course`       | [Discrete Structures via Saylor Academy](https://www.classcentral.com/course/saylor-academy-67-cs202-discrete-structures-99529) |
 | 4             |`Lectures`     | [Linear Algebra Lecture Series from MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/) |
 | 5             |`Course`       | [Fundamental Math for Data Science](https://www.codecademy.com/learn/paths/fundamental-math-for-data-science)| 
-
+| 6             |`Course`       | [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 
 
 ## Module 2 - Building Your Foundation

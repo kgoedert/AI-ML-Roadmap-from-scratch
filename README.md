@@ -81,14 +81,14 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 
 Data is the new oil! Before jumping into making advanced AI, let's learn about the data that drives it. We'll cover basics of statistics and Data Science using Python in this module.
 
-| S.No          | Type          | Course Name   | 
-| ------------- | ------------- | ------------- | 
+| S.No          | Type          | Course Name   | Status |
+| ------------- | ------------- | ------------- | ------- |
 | _Bonus_       | `YouTube`     | [Quick 5 Minute Intro to Data Science](https://www.youtube.com/watch?v=X3paOmcrTjQ)         |
 | 1             | `YouTube`      | [Data Science Overview](https://www.youtube.com/watch?v=ua-CiDNNj30)           | 
 | 2             | `Website`      | [Data Science Introduction](https://www.w3schools.com/datascience/ds_introduction.asp)           | 
 | 3             | `YouTube`     | [Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)         |  
 | 4             | `Course`      | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |  
-| 5             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         | 
+| 5             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         | In Progress |
 
 
 

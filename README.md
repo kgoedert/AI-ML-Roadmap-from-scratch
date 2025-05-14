@@ -71,8 +71,8 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 2             |`Course`      | [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)         | 
 | 3             |`Website`      | [Introduction to Python - W3 Schools](https://www.w3schools.com/python/python_intro.asp)      | 
 | 4             | `YouTube`      | [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)      | 
-| 5             | `⭐Practice!`  | [Practice Python on HackerRank](https://www.hackerrank.com/domains/python) |
-| 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic) | In Progress |
+| 5             | `⭐Practice!`  | [Practice Python on HackerRank](https://www.hackerrank.com/domains/python) | In Progress |
+| 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic) |
 
 
 
